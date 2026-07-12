@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Patrik Isaksson
+Role: Invictus Online Industries
 
 ## Team Member 1
 
